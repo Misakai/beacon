@@ -1,0 +1,14 @@
+{
+    "name": "beacon"
+  , "version": "1.0.0"
+  , "private": true
+  , "dependencies": {
+      "q":  ">= 1.x.x",
+      "debug": ">= 1.x.x"
+  }
+  , "engine": {
+    "node": ">= 0.6.x"
+  }
+  , "bin": { "beacon": "server.js" }
+  , "main": "server.js"
+}
